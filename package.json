@@ -11,5 +11,6 @@
     "ecmascript"
   ],
   "author": "WilAzDev",
-  "license": "MIT"
+  "license": "MIT",
+  "type":"module"
 }
